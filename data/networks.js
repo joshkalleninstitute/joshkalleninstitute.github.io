@@ -5,1619 +5,1619 @@ var networks = {"zj ambiguity mat som.mat": {
   "data" : {
     "shared_name" : "Network",
     "name" : "zj ambiguity mat som.mat",
-    "SUID" : 325,
+    "SUID" : 52,
     "__Annotations" : [ ],
     "selected" : true
   },
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "355",
+        "id" : "82",
         "shared_name" : "Sst.Tac2.Tacstd2",
         "name" : "Sst.Tac2.Tacstd2",
-        "SUID" : 355,
+        "SUID" : 82,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 11.868133544921875,
-        "y" : 309.6228133096938
+        "x" : 70.2180404663086,
+        "y" : 206.2395387805624
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "354",
+        "id" : "81",
         "shared_name" : "Sst.Tac2.Myh4",
         "name" : "Sst.Tac2.Myh4",
-        "SUID" : 354,
+        "SUID" : 81,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 40.95895767211914,
-        "y" : 412.1166223046207
+        "x" : 63.68917273750418,
+        "y" : 306.1890563964844
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "353",
+        "id" : "80",
         "shared_name" : "Sst.Tac1.Tacr3",
         "name" : "Sst.Tac1.Tacr3",
-        "SUID" : 353,
+        "SUID" : 80,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 267.3199568643813,
-        "y" : -135.1441192626953
+        "x" : 341.7428367502816,
+        "y" : -234.72412109375
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "352",
+        "id" : "79",
         "shared_name" : "Sst.Tac1.Htr1d",
         "name" : "Sst.Tac1.Htr1d",
-        "SUID" : 352,
+        "SUID" : 79,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 248.7806854248047,
-        "y" : 12.234372090859837
+        "x" : 341.21054915262533,
+        "y" : -98.63021087646484
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "351",
+        "id" : "78",
         "shared_name" : "Sst.Rxfp1.Prdm8",
         "name" : "Sst.Rxfp1.Prdm8",
-        "SUID" : 351,
+        "SUID" : 78,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 134.50542155358744,
-        "y" : 397.92802897546244
+        "x" : 212.45607947578543,
+        "y" : 290.59546851387137
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "350",
+        "id" : "77",
         "shared_name" : "Sst.Rxfp1.Eya1",
         "name" : "Sst.Rxfp1.Eya1",
-        "SUID" : 350,
+        "SUID" : 77,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 134.0294647216797,
-        "y" : 285.8552464553721
+        "x" : 215.2264704628588,
+        "y" : 202.63404846191406
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "349",
+        "id" : "76",
         "shared_name" : "Sst.Nts",
         "name" : "Sst.Nts",
-        "SUID" : 349,
+        "SUID" : 76,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 190.1321258544922,
-        "y" : 529.8022965535874
+        "x" : 252.81516455879324,
+        "y" : 407.8019714355469
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "348",
+        "id" : "75",
         "shared_name" : "Sst.Nr2f2.Necab1",
         "name" : "Sst.Nr2f2.Necab1",
-        "SUID" : 348,
+        "SUID" : 75,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : -188.12389342770098,
-        "y" : 213.58609008789062
+        "x" : -137.76619910469168,
+        "y" : 124.1357421875
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "347",
+        "id" : "74",
         "shared_name" : "Sst.Myh8.Fibin",
         "name" : "Sst.Myh8.Fibin",
-        "SUID" : 347,
+        "SUID" : 74,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : -92.36480743899823,
-        "y" : 453.1508563281584
+        "x" : -2.2051468112911556,
+        "y" : 326.958578116988
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "346",
+        "id" : "73",
         "shared_name" : "Sst.Myh8.Etv1",
         "name" : "Sst.Myh8.Etv1",
-        "SUID" : 346,
+        "SUID" : 73,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : -229.22196166500567,
-        "y" : 287.8785626171541
+        "x" : -160.44264221191406,
+        "y" : 194.8839016033161
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "345",
+        "id" : "72",
         "shared_name" : "Sst.Mme.Fam114a1",
         "name" : "Sst.Mme.Fam114a1",
-        "SUID" : 345,
+        "SUID" : 72,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 281.66448974609375,
-        "y" : 175.03857890222025
+        "x" : 353.3913047678597,
+        "y" : 30.90728303121258
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "344",
+        "id" : "71",
         "shared_name" : "Sst.Hpse.Sema3c",
         "name" : "Sst.Hpse.Sema3c",
-        "SUID" : 344,
+        "SUID" : 71,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : -83.87428252682209,
-        "y" : 230.99249267578125
+        "x" : -40.29570197334403,
+        "y" : 147.89901733398438
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "343",
+        "id" : "70",
         "shared_name" : "Sst.Hpse.Cbln4",
         "name" : "Sst.Hpse.Cbln4",
-        "SUID" : 343,
+        "SUID" : 70,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 25.053028975462446,
-        "y" : 61.31287470910502
+        "x" : 94.75752972799553,
+        "y" : -12.222587585449219
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "342",
+        "id" : "69",
         "shared_name" : "Sst.Esm1",
         "name" : "Sst.Esm1",
-        "SUID" : 342,
+        "SUID" : 69,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 286.30428019616556,
-        "y" : 429.68670654296875
+        "x" : 358.6859836505901,
+        "y" : 283.80419921875
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "341",
+        "id" : "68",
         "shared_name" : "Sst.Crhr2.Efemp1",
         "name" : "Sst.Crhr2.Efemp1",
-        "SUID" : 341,
+        "SUID" : 68,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 123.21982019960745,
-        "y" : 192.94366455078125
+        "x" : 212.3983154296875,
+        "y" : 114.64800835380441
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "340",
+        "id" : "67",
         "shared_name" : "Sst.Crh.4930553C11Rik",
         "name" : "Sst.Crh.4930553C11Rik",
-        "SUID" : 340,
+        "SUID" : 67,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 274.2870883460478,
-        "y" : 315.1115417480469
+        "x" : 360.3789577556599,
+        "y" : 194.51943016776926
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "339",
+        "id" : "66",
         "shared_name" : "Sst.Chrna2.Ptgdr",
         "name" : "Sst.Chrna2.Ptgdr",
-        "SUID" : 339,
+        "SUID" : 66,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : -90.34043853268146,
-        "y" : 364.6713336230803
+        "x" : -51.10527611503488,
+        "y" : 244.91222191581613
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "338",
+        "id" : "65",
         "shared_name" : "Sst.Chrna2.Glra3",
         "name" : "Sst.Chrna2.Glra3",
-        "SUID" : 338,
+        "SUID" : 65,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : -180.52487914547442,
-        "y" : 400.4449768066406
+        "x" : -137.37106323242188,
+        "y" : 271.76951026191824
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "337",
+        "id" : "64",
         "shared_name" : "Sst.Chodl",
         "name" : "Sst.Chodl",
-        "SUID" : 337,
+        "SUID" : 64,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : -143.8664093017578,
-        "y" : 516.4165264843416
+        "x" : -111.83964538574219,
+        "y" : 379.75096818135904
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "336",
+        "id" : "63",
         "shared_name" : "Sst.Calb2.Pdlim5",
         "name" : "Sst.Calb2.Pdlim5",
-        "SUID" : 336,
+        "SUID" : 63,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : -198.49508666992188,
-        "y" : 56.53715809729145
+        "x" : -125.47488403320312,
+        "y" : -16.792532554976493
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "335",
+        "id" : "62",
         "shared_name" : "Sst.Calb2.Necab1",
         "name" : "Sst.Calb2.Necab1",
-        "SUID" : 335,
+        "SUID" : 62,
         "Type" : "SourceNode",
         "selected" : false
       },
       "position" : {
-        "x" : 27.59803581237793,
-        "y" : -136.88315756029988
+        "x" : 21.553747169877234,
+        "y" : -241.6692657470703
       },
       "selected" : false
     } ],
     "edges" : [ {
       "data" : {
-        "id" : "449",
-        "source" : "354",
-        "target" : "355",
+        "id" : "176",
+        "source" : "81",
+        "target" : "82",
         "shared_name" : "Sst.Tac2.Myh4 (interacts with) Sst.Tac2.Tacstd2",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 14.0,
         "name" : "Sst.Tac2.Myh4 (interacts with) Sst.Tac2.Tacstd2",
         "interaction" : "interacts with",
-        "SUID" : 449,
+        "SUID" : 176,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "448",
-        "source" : "353",
-        "target" : "355",
+        "id" : "175",
+        "source" : "80",
+        "target" : "82",
         "shared_name" : "Sst.Tac1.Tacr3 (interacts with) Sst.Tac2.Tacstd2",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Tac1.Tacr3 (interacts with) Sst.Tac2.Tacstd2",
         "interaction" : "interacts with",
-        "SUID" : 448,
+        "SUID" : 175,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "447",
-        "source" : "353",
-        "target" : "354",
+        "id" : "174",
+        "source" : "80",
+        "target" : "81",
         "shared_name" : "Sst.Tac1.Tacr3 (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Tac1.Tacr3 (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 447,
+        "SUID" : 174,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "446",
-        "source" : "352",
-        "target" : "353",
+        "id" : "173",
+        "source" : "79",
+        "target" : "80",
         "shared_name" : "Sst.Tac1.Htr1d (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 29.0,
         "name" : "Sst.Tac1.Htr1d (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 446,
+        "SUID" : 173,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "445",
-        "source" : "351",
-        "target" : "355",
+        "id" : "172",
+        "source" : "78",
+        "target" : "82",
         "shared_name" : "Sst.Rxfp1.Prdm8 (interacts with) Sst.Tac2.Tacstd2",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 32.0,
         "name" : "Sst.Rxfp1.Prdm8 (interacts with) Sst.Tac2.Tacstd2",
         "interaction" : "interacts with",
-        "SUID" : 445,
+        "SUID" : 172,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "444",
-        "source" : "350",
-        "target" : "355",
+        "id" : "171",
+        "source" : "77",
+        "target" : "82",
         "shared_name" : "Sst.Rxfp1.Eya1 (interacts with) Sst.Tac2.Tacstd2",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 23.0,
         "name" : "Sst.Rxfp1.Eya1 (interacts with) Sst.Tac2.Tacstd2",
         "interaction" : "interacts with",
-        "SUID" : 444,
+        "SUID" : 171,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "443",
-        "source" : "350",
-        "target" : "354",
+        "id" : "170",
+        "source" : "77",
+        "target" : "81",
         "shared_name" : "Sst.Rxfp1.Eya1 (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Rxfp1.Eya1 (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 443,
+        "SUID" : 170,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "442",
-        "source" : "350",
-        "target" : "351",
+        "id" : "169",
+        "source" : "77",
+        "target" : "78",
         "shared_name" : "Sst.Rxfp1.Eya1 (interacts with) Sst.Rxfp1.Prdm8",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 15.0,
         "name" : "Sst.Rxfp1.Eya1 (interacts with) Sst.Rxfp1.Prdm8",
         "interaction" : "interacts with",
-        "SUID" : 442,
+        "SUID" : 169,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "441",
-        "source" : "349",
-        "target" : "350",
+        "id" : "168",
+        "source" : "76",
+        "target" : "77",
         "shared_name" : "Sst.Nts (interacts with) Sst.Rxfp1.Eya1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Nts (interacts with) Sst.Rxfp1.Eya1",
         "interaction" : "interacts with",
-        "SUID" : 441,
+        "SUID" : 168,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "440",
-        "source" : "349",
-        "target" : "353",
+        "id" : "167",
+        "source" : "76",
+        "target" : "80",
         "shared_name" : "Sst.Nts (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Nts (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 440,
+        "SUID" : 167,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "439",
-        "source" : "349",
-        "target" : "351",
+        "id" : "166",
+        "source" : "76",
+        "target" : "78",
         "shared_name" : "Sst.Nts (interacts with) Sst.Rxfp1.Prdm8",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Nts (interacts with) Sst.Rxfp1.Prdm8",
         "interaction" : "interacts with",
-        "SUID" : 439,
+        "SUID" : 166,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "438",
-        "source" : "348",
-        "target" : "355",
+        "id" : "165",
+        "source" : "75",
+        "target" : "82",
         "shared_name" : "Sst.Nr2f2.Necab1 (interacts with) Sst.Tac2.Tacstd2",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Nr2f2.Necab1 (interacts with) Sst.Tac2.Tacstd2",
         "interaction" : "interacts with",
-        "SUID" : 438,
+        "SUID" : 165,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "437",
-        "source" : "348",
-        "target" : "353",
+        "id" : "164",
+        "source" : "75",
+        "target" : "80",
         "shared_name" : "Sst.Nr2f2.Necab1 (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 7.0,
         "name" : "Sst.Nr2f2.Necab1 (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 437,
+        "SUID" : 164,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "436",
-        "source" : "348",
-        "target" : "352",
+        "id" : "163",
+        "source" : "75",
+        "target" : "79",
         "shared_name" : "Sst.Nr2f2.Necab1 (interacts with) Sst.Tac1.Htr1d",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 5.0,
         "name" : "Sst.Nr2f2.Necab1 (interacts with) Sst.Tac1.Htr1d",
         "interaction" : "interacts with",
-        "SUID" : 436,
+        "SUID" : 163,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "435",
-        "source" : "347",
-        "target" : "349",
+        "id" : "162",
+        "source" : "74",
+        "target" : "76",
         "shared_name" : "Sst.Myh8.Fibin (interacts with) Sst.Nts",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Myh8.Fibin (interacts with) Sst.Nts",
         "interaction" : "interacts with",
-        "SUID" : 435,
+        "SUID" : 162,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "434",
-        "source" : "347",
-        "target" : "348",
+        "id" : "161",
+        "source" : "74",
+        "target" : "75",
         "shared_name" : "Sst.Myh8.Fibin (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Myh8.Fibin (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 434,
+        "SUID" : 161,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "433",
-        "source" : "347",
-        "target" : "354",
+        "id" : "160",
+        "source" : "74",
+        "target" : "81",
         "shared_name" : "Sst.Myh8.Fibin (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Myh8.Fibin (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 433,
+        "SUID" : 160,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "432",
-        "source" : "347",
-        "target" : "351",
+        "id" : "159",
+        "source" : "74",
+        "target" : "78",
         "shared_name" : "Sst.Myh8.Fibin (interacts with) Sst.Rxfp1.Prdm8",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Myh8.Fibin (interacts with) Sst.Rxfp1.Prdm8",
         "interaction" : "interacts with",
-        "SUID" : 432,
+        "SUID" : 159,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "431",
-        "source" : "346",
-        "target" : "348",
+        "id" : "158",
+        "source" : "73",
+        "target" : "75",
         "shared_name" : "Sst.Myh8.Etv1 (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 21.0,
         "name" : "Sst.Myh8.Etv1 (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 431,
+        "SUID" : 158,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "430",
-        "source" : "346",
-        "target" : "347",
+        "id" : "157",
+        "source" : "73",
+        "target" : "74",
         "shared_name" : "Sst.Myh8.Etv1 (interacts with) Sst.Myh8.Fibin",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 6.0,
         "name" : "Sst.Myh8.Etv1 (interacts with) Sst.Myh8.Fibin",
         "interaction" : "interacts with",
-        "SUID" : 430,
+        "SUID" : 157,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "429",
-        "source" : "346",
-        "target" : "354",
+        "id" : "156",
+        "source" : "73",
+        "target" : "81",
         "shared_name" : "Sst.Myh8.Etv1 (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Myh8.Etv1 (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 429,
+        "SUID" : 156,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "428",
-        "source" : "345",
-        "target" : "348",
+        "id" : "155",
+        "source" : "72",
+        "target" : "75",
         "shared_name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 428,
+        "SUID" : 155,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "427",
-        "source" : "345",
-        "target" : "346",
+        "id" : "154",
+        "source" : "72",
+        "target" : "73",
         "shared_name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Myh8.Etv1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Myh8.Etv1",
         "interaction" : "interacts with",
-        "SUID" : 427,
+        "SUID" : 154,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "426",
-        "source" : "345",
-        "target" : "353",
+        "id" : "153",
+        "source" : "72",
+        "target" : "80",
         "shared_name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 426,
+        "SUID" : 153,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "425",
-        "source" : "345",
-        "target" : "352",
+        "id" : "152",
+        "source" : "72",
+        "target" : "79",
         "shared_name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Tac1.Htr1d",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Tac1.Htr1d",
         "interaction" : "interacts with",
-        "SUID" : 425,
+        "SUID" : 152,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "424",
-        "source" : "345",
-        "target" : "351",
+        "id" : "151",
+        "source" : "72",
+        "target" : "78",
         "shared_name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Rxfp1.Prdm8",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Mme.Fam114a1 (interacts with) Sst.Rxfp1.Prdm8",
         "interaction" : "interacts with",
-        "SUID" : 424,
+        "SUID" : 151,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "423",
-        "source" : "344",
-        "target" : "346",
+        "id" : "150",
+        "source" : "71",
+        "target" : "73",
         "shared_name" : "Sst.Hpse.Sema3c (interacts with) Sst.Myh8.Etv1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Hpse.Sema3c (interacts with) Sst.Myh8.Etv1",
         "interaction" : "interacts with",
-        "SUID" : 423,
+        "SUID" : 150,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "422",
-        "source" : "344",
-        "target" : "354",
+        "id" : "149",
+        "source" : "71",
+        "target" : "81",
         "shared_name" : "Sst.Hpse.Sema3c (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 5.0,
         "name" : "Sst.Hpse.Sema3c (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 422,
+        "SUID" : 149,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "421",
-        "source" : "344",
-        "target" : "352",
+        "id" : "148",
+        "source" : "71",
+        "target" : "79",
         "shared_name" : "Sst.Hpse.Sema3c (interacts with) Sst.Tac1.Htr1d",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Hpse.Sema3c (interacts with) Sst.Tac1.Htr1d",
         "interaction" : "interacts with",
-        "SUID" : 421,
+        "SUID" : 148,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "420",
-        "source" : "343",
-        "target" : "348",
+        "id" : "147",
+        "source" : "70",
+        "target" : "75",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 8.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 420,
+        "SUID" : 147,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "419",
-        "source" : "343",
-        "target" : "346",
+        "id" : "146",
+        "source" : "70",
+        "target" : "73",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Myh8.Etv1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Myh8.Etv1",
         "interaction" : "interacts with",
-        "SUID" : 419,
+        "SUID" : 146,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "418",
-        "source" : "343",
-        "target" : "345",
+        "id" : "145",
+        "source" : "70",
+        "target" : "72",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Mme.Fam114a1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 11.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Mme.Fam114a1",
         "interaction" : "interacts with",
-        "SUID" : 418,
+        "SUID" : 145,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "417",
-        "source" : "343",
-        "target" : "344",
+        "id" : "144",
+        "source" : "70",
+        "target" : "71",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Hpse.Sema3c",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 20.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Hpse.Sema3c",
         "interaction" : "interacts with",
-        "SUID" : 417,
+        "SUID" : 144,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "416",
-        "source" : "343",
-        "target" : "355",
+        "id" : "143",
+        "source" : "70",
+        "target" : "82",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Tac2.Tacstd2",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Tac2.Tacstd2",
         "interaction" : "interacts with",
-        "SUID" : 416,
+        "SUID" : 143,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "415",
-        "source" : "343",
-        "target" : "354",
+        "id" : "142",
+        "source" : "70",
+        "target" : "81",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 7.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 415,
+        "SUID" : 142,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "414",
-        "source" : "343",
-        "target" : "353",
+        "id" : "141",
+        "source" : "70",
+        "target" : "80",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 5.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 414,
+        "SUID" : 141,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "413",
-        "source" : "343",
-        "target" : "352",
+        "id" : "140",
+        "source" : "70",
+        "target" : "79",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Tac1.Htr1d",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Tac1.Htr1d",
         "interaction" : "interacts with",
-        "SUID" : 413,
+        "SUID" : 140,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "412",
-        "source" : "343",
-        "target" : "351",
+        "id" : "139",
+        "source" : "70",
+        "target" : "78",
         "shared_name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Rxfp1.Prdm8",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Hpse.Cbln4 (interacts with) Sst.Rxfp1.Prdm8",
         "interaction" : "interacts with",
-        "SUID" : 412,
+        "SUID" : 139,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "411",
-        "source" : "342",
-        "target" : "349",
+        "id" : "138",
+        "source" : "69",
+        "target" : "76",
         "shared_name" : "Sst.Esm1 (interacts with) Sst.Nts",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 6.0,
         "name" : "Sst.Esm1 (interacts with) Sst.Nts",
         "interaction" : "interacts with",
-        "SUID" : 411,
+        "SUID" : 138,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "410",
-        "source" : "342",
-        "target" : "348",
+        "id" : "137",
+        "source" : "69",
+        "target" : "75",
         "shared_name" : "Sst.Esm1 (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Esm1 (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 410,
+        "SUID" : 137,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "409",
-        "source" : "342",
-        "target" : "347",
+        "id" : "136",
+        "source" : "69",
+        "target" : "74",
         "shared_name" : "Sst.Esm1 (interacts with) Sst.Myh8.Fibin",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Esm1 (interacts with) Sst.Myh8.Fibin",
         "interaction" : "interacts with",
-        "SUID" : 409,
+        "SUID" : 136,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "408",
-        "source" : "342",
-        "target" : "346",
+        "id" : "135",
+        "source" : "69",
+        "target" : "73",
         "shared_name" : "Sst.Esm1 (interacts with) Sst.Myh8.Etv1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Esm1 (interacts with) Sst.Myh8.Etv1",
         "interaction" : "interacts with",
-        "SUID" : 408,
+        "SUID" : 135,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "407",
-        "source" : "342",
-        "target" : "343",
+        "id" : "134",
+        "source" : "69",
+        "target" : "70",
         "shared_name" : "Sst.Esm1 (interacts with) Sst.Hpse.Cbln4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Esm1 (interacts with) Sst.Hpse.Cbln4",
         "interaction" : "interacts with",
-        "SUID" : 407,
+        "SUID" : 134,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "406",
-        "source" : "342",
-        "target" : "355",
+        "id" : "133",
+        "source" : "69",
+        "target" : "82",
         "shared_name" : "Sst.Esm1 (interacts with) Sst.Tac2.Tacstd2",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 5.0,
         "name" : "Sst.Esm1 (interacts with) Sst.Tac2.Tacstd2",
         "interaction" : "interacts with",
-        "SUID" : 406,
+        "SUID" : 133,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "405",
-        "source" : "342",
-        "target" : "354",
+        "id" : "132",
+        "source" : "69",
+        "target" : "81",
         "shared_name" : "Sst.Esm1 (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Esm1 (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 405,
+        "SUID" : 132,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "404",
-        "source" : "342",
-        "target" : "353",
+        "id" : "131",
+        "source" : "69",
+        "target" : "80",
         "shared_name" : "Sst.Esm1 (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Esm1 (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 404,
+        "SUID" : 131,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "403",
-        "source" : "341",
-        "target" : "350",
+        "id" : "130",
+        "source" : "68",
+        "target" : "77",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Rxfp1.Eya1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Rxfp1.Eya1",
         "interaction" : "interacts with",
-        "SUID" : 403,
+        "SUID" : 130,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "402",
-        "source" : "341",
-        "target" : "349",
+        "id" : "129",
+        "source" : "68",
+        "target" : "76",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Nts",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Nts",
         "interaction" : "interacts with",
-        "SUID" : 402,
+        "SUID" : 129,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "401",
-        "source" : "341",
-        "target" : "348",
+        "id" : "128",
+        "source" : "68",
+        "target" : "75",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 401,
+        "SUID" : 128,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "400",
-        "source" : "341",
-        "target" : "347",
+        "id" : "127",
+        "source" : "68",
+        "target" : "74",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Myh8.Fibin",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Myh8.Fibin",
         "interaction" : "interacts with",
-        "SUID" : 400,
+        "SUID" : 127,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "399",
-        "source" : "341",
-        "target" : "346",
+        "id" : "126",
+        "source" : "68",
+        "target" : "73",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Myh8.Etv1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Myh8.Etv1",
         "interaction" : "interacts with",
-        "SUID" : 399,
+        "SUID" : 126,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "398",
-        "source" : "341",
-        "target" : "345",
+        "id" : "125",
+        "source" : "68",
+        "target" : "72",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Mme.Fam114a1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 8.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Mme.Fam114a1",
         "interaction" : "interacts with",
-        "SUID" : 398,
+        "SUID" : 125,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "397",
-        "source" : "341",
-        "target" : "343",
+        "id" : "124",
+        "source" : "68",
+        "target" : "70",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Hpse.Cbln4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 27.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Hpse.Cbln4",
         "interaction" : "interacts with",
-        "SUID" : 397,
+        "SUID" : 124,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "396",
-        "source" : "341",
-        "target" : "342",
+        "id" : "123",
+        "source" : "68",
+        "target" : "69",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Esm1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 8.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Esm1",
         "interaction" : "interacts with",
-        "SUID" : 396,
+        "SUID" : 123,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "395",
-        "source" : "341",
-        "target" : "354",
+        "id" : "122",
+        "source" : "68",
+        "target" : "81",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 395,
+        "SUID" : 122,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "394",
-        "source" : "341",
-        "target" : "353",
+        "id" : "121",
+        "source" : "68",
+        "target" : "80",
         "shared_name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Crhr2.Efemp1 (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 394,
+        "SUID" : 121,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "393",
-        "source" : "340",
-        "target" : "350",
+        "id" : "120",
+        "source" : "67",
+        "target" : "77",
         "shared_name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Rxfp1.Eya1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Rxfp1.Eya1",
         "interaction" : "interacts with",
-        "SUID" : 393,
+        "SUID" : 120,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "392",
-        "source" : "340",
-        "target" : "345",
+        "id" : "119",
+        "source" : "67",
+        "target" : "72",
         "shared_name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Mme.Fam114a1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Mme.Fam114a1",
         "interaction" : "interacts with",
-        "SUID" : 392,
+        "SUID" : 119,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "391",
-        "source" : "340",
-        "target" : "343",
+        "id" : "118",
+        "source" : "67",
+        "target" : "70",
         "shared_name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Hpse.Cbln4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Hpse.Cbln4",
         "interaction" : "interacts with",
-        "SUID" : 391,
+        "SUID" : 118,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "390",
-        "source" : "340",
-        "target" : "342",
+        "id" : "117",
+        "source" : "67",
+        "target" : "69",
         "shared_name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Esm1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 10.0,
         "name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Esm1",
         "interaction" : "interacts with",
-        "SUID" : 390,
+        "SUID" : 117,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "389",
-        "source" : "340",
-        "target" : "341",
+        "id" : "116",
+        "source" : "67",
+        "target" : "68",
         "shared_name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Crhr2.Efemp1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 25.0,
         "name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Crhr2.Efemp1",
         "interaction" : "interacts with",
-        "SUID" : 389,
+        "SUID" : 116,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "388",
-        "source" : "340",
-        "target" : "354",
+        "id" : "115",
+        "source" : "67",
+        "target" : "81",
         "shared_name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Tac2.Myh4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Crh.4930553C11Rik (interacts with) Sst.Tac2.Myh4",
         "interaction" : "interacts with",
-        "SUID" : 388,
+        "SUID" : 115,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "387",
-        "source" : "339",
-        "target" : "348",
+        "id" : "114",
+        "source" : "66",
+        "target" : "75",
         "shared_name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 387,
+        "SUID" : 114,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "386",
-        "source" : "339",
-        "target" : "347",
+        "id" : "113",
+        "source" : "66",
+        "target" : "74",
         "shared_name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Myh8.Fibin",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Myh8.Fibin",
         "interaction" : "interacts with",
-        "SUID" : 386,
+        "SUID" : 113,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "385",
-        "source" : "339",
-        "target" : "346",
+        "id" : "112",
+        "source" : "66",
+        "target" : "73",
         "shared_name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Myh8.Etv1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Myh8.Etv1",
         "interaction" : "interacts with",
-        "SUID" : 385,
+        "SUID" : 112,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "384",
-        "source" : "339",
-        "target" : "345",
+        "id" : "111",
+        "source" : "66",
+        "target" : "72",
         "shared_name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Mme.Fam114a1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Mme.Fam114a1",
         "interaction" : "interacts with",
-        "SUID" : 384,
+        "SUID" : 111,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "383",
-        "source" : "339",
-        "target" : "344",
+        "id" : "110",
+        "source" : "66",
+        "target" : "71",
         "shared_name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Hpse.Sema3c",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 11.0,
         "name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Hpse.Sema3c",
         "interaction" : "interacts with",
-        "SUID" : 383,
+        "SUID" : 110,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "382",
-        "source" : "339",
-        "target" : "343",
+        "id" : "109",
+        "source" : "66",
+        "target" : "70",
         "shared_name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Hpse.Cbln4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 6.0,
         "name" : "Sst.Chrna2.Ptgdr (interacts with) Sst.Hpse.Cbln4",
         "interaction" : "interacts with",
-        "SUID" : 382,
+        "SUID" : 109,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "381",
-        "source" : "338",
-        "target" : "347",
+        "id" : "108",
+        "source" : "65",
+        "target" : "74",
         "shared_name" : "Sst.Chrna2.Glra3 (interacts with) Sst.Myh8.Fibin",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Chrna2.Glra3 (interacts with) Sst.Myh8.Fibin",
         "interaction" : "interacts with",
-        "SUID" : 381,
+        "SUID" : 108,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "380",
-        "source" : "338",
-        "target" : "346",
+        "id" : "107",
+        "source" : "65",
+        "target" : "73",
         "shared_name" : "Sst.Chrna2.Glra3 (interacts with) Sst.Myh8.Etv1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 21.0,
         "name" : "Sst.Chrna2.Glra3 (interacts with) Sst.Myh8.Etv1",
         "interaction" : "interacts with",
-        "SUID" : 380,
+        "SUID" : 107,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "379",
-        "source" : "338",
-        "target" : "342",
+        "id" : "106",
+        "source" : "65",
+        "target" : "69",
         "shared_name" : "Sst.Chrna2.Glra3 (interacts with) Sst.Esm1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Chrna2.Glra3 (interacts with) Sst.Esm1",
         "interaction" : "interacts with",
-        "SUID" : 379,
+        "SUID" : 106,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "378",
-        "source" : "338",
-        "target" : "339",
+        "id" : "105",
+        "source" : "65",
+        "target" : "66",
         "shared_name" : "Sst.Chrna2.Glra3 (interacts with) Sst.Chrna2.Ptgdr",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 8.0,
         "name" : "Sst.Chrna2.Glra3 (interacts with) Sst.Chrna2.Ptgdr",
         "interaction" : "interacts with",
-        "SUID" : 378,
+        "SUID" : 105,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "377",
-        "source" : "337",
-        "target" : "349",
+        "id" : "104",
+        "source" : "64",
+        "target" : "76",
         "shared_name" : "Sst.Chodl (interacts with) Sst.Nts",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Chodl (interacts with) Sst.Nts",
         "interaction" : "interacts with",
-        "SUID" : 377,
+        "SUID" : 104,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "376",
-        "source" : "337",
-        "target" : "346",
+        "id" : "103",
+        "source" : "64",
+        "target" : "73",
         "shared_name" : "Sst.Chodl (interacts with) Sst.Myh8.Etv1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Chodl (interacts with) Sst.Myh8.Etv1",
         "interaction" : "interacts with",
-        "SUID" : 376,
+        "SUID" : 103,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "375",
-        "source" : "337",
-        "target" : "343",
+        "id" : "102",
+        "source" : "64",
+        "target" : "70",
         "shared_name" : "Sst.Chodl (interacts with) Sst.Hpse.Cbln4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Chodl (interacts with) Sst.Hpse.Cbln4",
         "interaction" : "interacts with",
-        "SUID" : 375,
+        "SUID" : 102,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "374",
-        "source" : "337",
-        "target" : "341",
+        "id" : "101",
+        "source" : "64",
+        "target" : "68",
         "shared_name" : "Sst.Chodl (interacts with) Sst.Crhr2.Efemp1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Chodl (interacts with) Sst.Crhr2.Efemp1",
         "interaction" : "interacts with",
-        "SUID" : 374,
+        "SUID" : 101,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "373",
-        "source" : "337",
-        "target" : "353",
+        "id" : "100",
+        "source" : "64",
+        "target" : "80",
         "shared_name" : "Sst.Chodl (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Chodl (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 373,
+        "SUID" : 100,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "372",
-        "source" : "337",
-        "target" : "351",
+        "id" : "99",
+        "source" : "64",
+        "target" : "78",
         "shared_name" : "Sst.Chodl (interacts with) Sst.Rxfp1.Prdm8",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Chodl (interacts with) Sst.Rxfp1.Prdm8",
         "interaction" : "interacts with",
-        "SUID" : 372,
+        "SUID" : 99,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "371",
-        "source" : "336",
-        "target" : "348",
+        "id" : "98",
+        "source" : "63",
+        "target" : "75",
         "shared_name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 4.0,
         "name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 371,
+        "SUID" : 98,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "370",
-        "source" : "336",
-        "target" : "345",
+        "id" : "97",
+        "source" : "63",
+        "target" : "72",
         "shared_name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Mme.Fam114a1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 7.0,
         "name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Mme.Fam114a1",
         "interaction" : "interacts with",
-        "SUID" : 370,
+        "SUID" : 97,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "369",
-        "source" : "336",
-        "target" : "344",
+        "id" : "96",
+        "source" : "63",
+        "target" : "71",
         "shared_name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Hpse.Sema3c",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Hpse.Sema3c",
         "interaction" : "interacts with",
-        "SUID" : 369,
+        "SUID" : 96,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "368",
-        "source" : "336",
-        "target" : "343",
+        "id" : "95",
+        "source" : "63",
+        "target" : "70",
         "shared_name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Hpse.Cbln4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 27.0,
         "name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Hpse.Cbln4",
         "interaction" : "interacts with",
-        "SUID" : 368,
+        "SUID" : 95,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "367",
-        "source" : "336",
-        "target" : "341",
+        "id" : "94",
+        "source" : "63",
+        "target" : "68",
         "shared_name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Crhr2.Efemp1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Crhr2.Efemp1",
         "interaction" : "interacts with",
-        "SUID" : 367,
+        "SUID" : 94,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "366",
-        "source" : "336",
-        "target" : "353",
+        "id" : "93",
+        "source" : "63",
+        "target" : "80",
         "shared_name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 366,
+        "SUID" : 93,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "365",
-        "source" : "336",
-        "target" : "337",
+        "id" : "92",
+        "source" : "63",
+        "target" : "64",
         "shared_name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Chodl",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Chodl",
         "interaction" : "interacts with",
-        "SUID" : 365,
+        "SUID" : 92,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "364",
-        "source" : "336",
-        "target" : "352",
+        "id" : "91",
+        "source" : "63",
+        "target" : "79",
         "shared_name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Tac1.Htr1d",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 11.0,
         "name" : "Sst.Calb2.Pdlim5 (interacts with) Sst.Tac1.Htr1d",
         "interaction" : "interacts with",
-        "SUID" : 364,
+        "SUID" : 91,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "363",
-        "source" : "335",
-        "target" : "348",
+        "id" : "90",
+        "source" : "62",
+        "target" : "75",
         "shared_name" : "Sst.Calb2.Necab1 (interacts with) Sst.Nr2f2.Necab1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 6.0,
         "name" : "Sst.Calb2.Necab1 (interacts with) Sst.Nr2f2.Necab1",
         "interaction" : "interacts with",
-        "SUID" : 363,
+        "SUID" : 90,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "362",
-        "source" : "335",
-        "target" : "345",
+        "id" : "89",
+        "source" : "62",
+        "target" : "72",
         "shared_name" : "Sst.Calb2.Necab1 (interacts with) Sst.Mme.Fam114a1",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 3.0,
         "name" : "Sst.Calb2.Necab1 (interacts with) Sst.Mme.Fam114a1",
         "interaction" : "interacts with",
-        "SUID" : 362,
+        "SUID" : 89,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "361",
-        "source" : "335",
-        "target" : "343",
+        "id" : "88",
+        "source" : "62",
+        "target" : "70",
         "shared_name" : "Sst.Calb2.Necab1 (interacts with) Sst.Hpse.Cbln4",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 7.0,
         "name" : "Sst.Calb2.Necab1 (interacts with) Sst.Hpse.Cbln4",
         "interaction" : "interacts with",
-        "SUID" : 361,
+        "SUID" : 88,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "360",
-        "source" : "335",
-        "target" : "355",
+        "id" : "87",
+        "source" : "62",
+        "target" : "82",
         "shared_name" : "Sst.Calb2.Necab1 (interacts with) Sst.Tac2.Tacstd2",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 1.0,
         "name" : "Sst.Calb2.Necab1 (interacts with) Sst.Tac2.Tacstd2",
         "interaction" : "interacts with",
-        "SUID" : 360,
+        "SUID" : 87,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "359",
-        "source" : "335",
-        "target" : "353",
+        "id" : "86",
+        "source" : "62",
+        "target" : "80",
         "shared_name" : "Sst.Calb2.Necab1 (interacts with) Sst.Tac1.Tacr3",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 7.0,
         "name" : "Sst.Calb2.Necab1 (interacts with) Sst.Tac1.Tacr3",
         "interaction" : "interacts with",
-        "SUID" : 359,
+        "SUID" : 86,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "358",
-        "source" : "335",
-        "target" : "337",
+        "id" : "85",
+        "source" : "62",
+        "target" : "64",
         "shared_name" : "Sst.Calb2.Necab1 (interacts with) Sst.Chodl",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 2.0,
         "name" : "Sst.Calb2.Necab1 (interacts with) Sst.Chodl",
         "interaction" : "interacts with",
-        "SUID" : 358,
+        "SUID" : 85,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "357",
-        "source" : "335",
-        "target" : "352",
+        "id" : "84",
+        "source" : "62",
+        "target" : "79",
         "shared_name" : "Sst.Calb2.Necab1 (interacts with) Sst.Tac1.Htr1d",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 11.0,
         "name" : "Sst.Calb2.Necab1 (interacts with) Sst.Tac1.Htr1d",
         "interaction" : "interacts with",
-        "SUID" : 357,
+        "SUID" : 84,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "356",
-        "source" : "335",
-        "target" : "336",
+        "id" : "83",
+        "source" : "62",
+        "target" : "63",
         "shared_name" : "Sst.Calb2.Necab1 (interacts with) Sst.Calb2.Pdlim5",
         "shared_interaction" : "interacts with",
         "zj_ambiguity_mat_som_mat" : 128.0,
         "name" : "Sst.Calb2.Necab1 (interacts with) Sst.Calb2.Pdlim5",
         "interaction" : "interacts with",
-        "SUID" : 356,
+        "SUID" : 83,
         "selected" : false
       },
       "selected" : false
